@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bekir Demir</h1>
 <h3 align="center">Full Stack Automation Engineer</h3>
 
+- 🔭 I’m currently working on [BookLogic | Hotel & Travel Technology and Software Company](https://www.booklogic.net)
+
+- 💬 Ask me about **Java, Selenium, API, JavaScript, HTML, CSS, Postman, RestAssured, Cucumber, TestNG, JUnit, PostGreSQL, etc...**
+
 - 📫 How to reach me **bekirdemir001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
