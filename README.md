@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BookLogic | Hotel & Travel Technology and Software Company](https://www.booklogic.net)
 
-- 💬 Ask me about **Java, Selenium, API, JavaScript, HTML, CSS, Postman, RestAssured, Cucumber, TestNG, JUnit, PostGreSQL, etc...**
+- 💬 Ask me about **Java, Selenium, API, JavaScript, HTML, CSS, Postman, RestAssured, Cucumber, TestNG, JUnit, PostGreSQL**
 
 - 📫 How to reach me **bekirdemir001@gmail.com**
 
