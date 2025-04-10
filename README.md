@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bekir Demir</h1>
-<h3 align="center">Full Stack Automation Engineer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [BookLogic | Hotel & Travel Technology and Software Company](https://www.booklogic.net)
-
-- 💬 Ask me about **Java, Selenium, API, JavaScript, HTML, CSS, Postman, RestAssured, Cucumber, TestNG, JUnit, PostGreSQL**
+- 💬 Ask me about **Java, Spring Boot, JavaScript, React, HTML, CSS, API, PostGreSQL, Postman, Selenium, RestAssured, Cucumber, TestNG, JUnit**
 
 - 📫 How to reach me **bekirdemir001@gmail.com**
 
